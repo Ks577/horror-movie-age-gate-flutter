@@ -1,6 +1,7 @@
 # Horror Movie Age Gate 😈
 
-Flutter app with an age gate for horror movies. The app is interactive, giving real-time feedback as users enter their age.
+Flutter app with an age gate for horror movies.   
+The app is interactive, giving real-time feedback as users enter their age.
 
 ## Features
 
