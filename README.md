@@ -12,12 +12,15 @@ Flutter app with an age gate for horror movies. The app is interactive, giving r
 ## Demo
 
 ⏳ GIFs may take a few seconds to load. If they don't appear immediately - refresh the page.
+&nbsp;
 
-*Age 16* 
+*Age 16*
 
-<img src="assets/images/demo.gif" width="340">
+  <img src="assets/images/demo.gif" width="340">
 
 <br>
+
+
 
 *Ages 12 and 18*  
 
