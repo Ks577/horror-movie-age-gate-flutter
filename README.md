@@ -11,7 +11,7 @@ Flutter app with an age gate for horror movies. The app is interactive, giving r
 
 ## 📸 Demo
 
- GIFs may take a few seconds to load. If they don't appear immediately - refresh the page.
+ GIFs may take a few seconds to load. If they don't appear immediately &mdash; refresh the page.
 
 ---
 
