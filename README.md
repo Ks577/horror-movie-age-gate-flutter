@@ -17,7 +17,7 @@ Flutter app with an age gate for horror movies. The app is interactive, giving r
 
 *Age 16*
 
-  <img src="assets/images/demo.gif" width="340">
+  <img src="assets/images/demo.gif" width="300">
 
 <br>
 
@@ -25,7 +25,7 @@ Flutter app with an age gate for horror movies. The app is interactive, giving r
 
 *Ages 12 and 18*  
 
-<img src="assets/images/demo2.gif" width="340">
+<img src="assets/images/demo2.gif" width="300">
 
 ## 🛠️ Installation
 
